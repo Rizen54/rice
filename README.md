@@ -11,8 +11,9 @@ All of my dotfiles, wallpapers etc with some tips. (Arch nord themed rice with i
 - Don't forget to `chmod +x .config/polybar/launch.sh`
 
 ### Favourite oh-my-zsh themes:
+(Starred and italicized is the one I currenty use)
  - bureau -> Formalish
  - amuse -> Simple and elegant
  - darkblood -> Hackerish
  - eastwood -> super clean
- - **intheloop** -> Clean, techno and cool
+ - \[\*\] *intheloop -> Clean, techno and cool*

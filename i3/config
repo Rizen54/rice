@@ -200,9 +200,11 @@ client.placeholder      #a3be8c #a3be8c #a3be8c #a3be8c   #a3be8c
 # exec_always --no-startup-id picom
 gaps inner 10
 # gaps outer 5
-exec_always --no-startup-id feh --bg-fill Downloads/cropped-1366-768-958190.png
+exec_always --no-startup-id feh --bg-fill Downloads/Untitled\ design.png
 
 bindsym Print exec "flameshot gui"
 exec_always --no-startup-id picom
-exec_always --no-startup-id feh --bg-fill rice/Wallpapers/nord-barcode-gradiant.png
 exec_always --no-startup-id ./.config/polybar/launch.sh
+
+# Add SSH keys
+exec_always --no-startup-id ./ssher.sh

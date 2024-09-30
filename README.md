@@ -19,4 +19,4 @@ All of my dotfiles, wallpapers etc with some tips. (Arch nord themed rice with i
  - \[\*\] *intheloop -> Clean, techno and cool*
 
 ### For me:
-Don't forget Orca
+Don't forget [Orca](https://github.com/Rizen54/Orca)

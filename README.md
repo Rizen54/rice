@@ -17,3 +17,6 @@ All of my dotfiles, wallpapers etc with some tips. (Arch nord themed rice with i
  - darkblood -> Hackerish
  - eastwood -> super clean
  - \[\*\] *intheloop -> Clean, techno and cool*
+
+### For me:
+Don't forget Orca

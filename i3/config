@@ -190,17 +190,17 @@ focus_follows_mouse no
 for_window [class="^.*"] border pixel 1
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #a3be8c #a3be8c #a3be8c #a3be8c   #a3be8c
-client.unfocused        #a3be8c #a3be8c #a3be8c #a3be8c   #a3be8c
-client.focused_inactive #a3be8c #a3be8c #a3be8c #a3be8c   #a3be8c
-client.unfocused        #a3be8c #a3be8c #a3be8c #a3be8c   #a3be8c
-client.urgent           #a3be8c #a3be8c #a3be8c #a3be8c   #a3be8c
-client.placeholder      #a3be8c #a3be8c #a3be8c #a3be8c   #a3be8c
+client.focused          ##a9b665 ##a9b665 ##a9b665 ##a9b665   ##a9b665
+client.unfocused        ##a9b665 ##a9b665 ##a9b665 ##a9b665   ##a9b665
+client.focused_inactive ##a9b665 ##a9b665 ##a9b665 ##a9b665   ##a9b665
+client.unfocused        ##a9b665 ##a9b665 ##a9b665 ##a9b665   ##a9b665
+client.urgent           ##a9b665 ##a9b665 ##a9b665 ##a9b665   ##a9b665
+client.placeholder      ##a9b665 ##a9b665 ##a9b665 ##a9b665   ##a9b665
 
 # exec_always --no-startup-id picom
 gaps inner 10
 # gaps outer 5
-exec_always --no-startup-id feh --bg-fill Downloads/Untitled\ design.png
+exec_always --no-startup-id feh --bg-fill ~/Downloads/fruitdog.png
 
 bindsym Print exec "flameshot gui"
 exec_always --no-startup-id picom

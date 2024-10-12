@@ -1,5 +1,9 @@
-# Rice
-All of my dotfiles, wallpapers etc with some tips. (Arch gruvobx themed rice with i3wm)
+<div align="center">
+<h1>Rice</h1>
+
+> All of my dotfiles, wallpapers etc with some tips. (Arch gruvobx themed rice with i3wm)
+<img src="tokyonight/tokyonight.png" alt="Sample Image" width="800">
+</div>
 
 ### Wallpapers:
 https://github.com/dharmx/walls/

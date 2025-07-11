@@ -6,7 +6,7 @@
 </div>
 
 ### Wallpapers:
-https://github.com/dharmx/walls/
+https://github.com/dharmx/walls/  
 Current one: https://github.com/dharmx/walls/blob/main/fauna/a_white_dog_with_fruits_on_it.png
 
 ### Alacritty themes credit:

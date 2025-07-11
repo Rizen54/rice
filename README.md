@@ -19,7 +19,7 @@ https://github.com/alacritty/alacritty-theme
  - amuse -> Simple and elegant
  - darkblood -> Hackerish
  - eastwood -> super clean
- - [*] intheloop -> *Clean, techno and cool*
+ - [x] intheloop -> *Clean, techno and cool*
  - agnoster -> aesthetic and techno
 
 ### For me:
